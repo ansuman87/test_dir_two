@@ -1,1 +1,4 @@
-1st line
+1) mkdir .ssh
+2) chmod 700 ~/.ssh
+3) https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca
+4) https://garywoodfine.com/use-pbcopy-on-ubuntu/
